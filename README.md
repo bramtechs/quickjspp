@@ -1,10 +1,8 @@
 Stripped down Windows-only fork of
 [c-smile/quickjspp](https://github.com/c-smile/quickjspp) with build systems
-removed except for Visual Studio 2022.
-
-Intended for internal usage at
-[Doomhowl Interactive](https://doomhowl-interactive.com) but could he handy for
-someone.
+removed except for the one used by Visual Studio 2022. Intended for internal
+usage at [Doomhowl Interactive](https://doomhowl-interactive.com) but could turn
+out useful for someone.
 
 All credit belongs to Fabrice Bellard, Charlie Gordon and Andrew Fedoniouk.
 
